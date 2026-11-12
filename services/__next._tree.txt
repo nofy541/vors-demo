@@ -1,5 +1,4 @@
-:HL["/vors-demo/_next/static/css/3be7ffae7e104037.css","style"]
-:HL["/vors-demo/posters/sofa.webp","image"]
+:HL["/vors-demo/_next/static/css/5e422f4bb361adb7.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"services","h":96,"c":"$Q2"}]]
-0:{"b":"4NmRshn0rOkilLvkxyOpH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"JqMl0r7zz_0BLxaAfZ_OR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
