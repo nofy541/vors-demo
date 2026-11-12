@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[2063,[],""]
+3:"static/chunks/app/error-3dcc828352b48b81.js"
+4:I[7531,["39","$3"],"default"]
+5:I[5939,[],""]
+6:"static/chunks/582-a15fa390e476eb46.js"
+7:"static/chunks/app/page-94a64e384e4daaf8.js"
+8:I[8582,["582","$6","974","$7"],""]
+c:I[630,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[630,[],"$f"]
+12:"MetadataBoundary"
+13:I[630,[],"$12"]
+15:I[9109,[],"default",1]
+:HL["/vors-demo/_next/static/css/3be7ffae7e104037.css","style"]
+a:X
+b:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"site-main narrow stack","children":[["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"children":"Проверьте адрес. Если заявка была удалена компанией, её ссылка больше недоступна."}],["$","$L8",null,{"className":"primary","href":"/","children":"На главную"}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+9:[["children",{"s":"_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$a"},"c":"$Qb"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vors-demo/_next/static/css/3be7ffae7e104037.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{const t=localStorage.getItem(\"vors-theme\");document.documentElement.dataset.theme=t===\"dark\"||(!t&&matchMedia(\"(prefers-color-scheme: dark)\").matches)?\"dark\":\"light\"}catch{}"}}]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":null,"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"site-main narrow stack","children":[["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"children":"Проверьте адрес. Если заявка была удалена компанией, её ссылка больше недоступна."}],["$","$L8",null,{"className":"primary","href":"/","children":"На главную"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],"p":false,"v":null},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"ytbwAXeIh5UR0-5S5frc4"}
+a:C
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#eee6d7"}]]
+16:I[9539,[],"IconMark"]
+e:null
+14:[["$","title","0",{"children":"Ворс · Выездная химчистка мебели"}],["$","meta","1",{"name":"description","content":"Предварительный расчёт чистки мягкой мебели с выездом на дом."}],["$","link","2",{"rel":"manifest","href":"/vors-demo/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","5",{"rel":"icon","href":"/vors-demo/icons/icon-192.png"}],["$","link","6",{"rel":"apple-touch-icon","href":"/vors-demo/icons/icon-192.png"}],["$","$L16","7",{}]]

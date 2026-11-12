@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Нет сети</title>
+  <style>
+    :root{color-scheme:light dark;font:17px/1.5 system-ui,sans-serif;background:#f7f7f8;color:#1b1e26}
+    body{margin:0;min-height:100svh;display:grid;place-items:center;padding:1rem;box-sizing:border-box}
+    main{width:min(100%,32rem);box-sizing:border-box;background:#fff;padding:clamp(1.25rem,5vw,3rem);border-radius:1.35rem;border:1px solid #d9dce2}
+    h1{font-size:2.3rem;line-height:1.1;margin:0 0 1rem}
+    a{color:inherit;text-decoration:none}
+    .retry{display:inline-flex;min-height:44px;align-items:center;margin-top:.8rem}
+    @media(prefers-color-scheme:dark){:root{background:#171d26;color:#f3f7fc}main{background:#222d3a;border-color:#394a5e}}
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Нет сети</h1>
+    <p>Когда связь восстановится, откройте сайт снова. Введённые данные сохраняются в черновике этого браузера.</p>
+    <p id="contact" hidden></p><a id="phone" hidden></a>
+    <div><a class="retry" href="/vors-demo/">Открыть сайт</a></div>
+  </main>
+  <script>
+    try {
+      const saved = JSON.parse(localStorage.getItem("vors-public-contact") || "null");
+      if (typeof saved?.name === "string" && typeof saved.address === "string") {
+        const contact = document.getElementById("contact");
+        contact.textContent = saved.name + " · " + saved.address;
+        contact.hidden = false;
+        if (typeof saved.phone === "string" && /^\+\d{10,15}$/.test(saved.phone)) {
+          const phone = document.getElementById("phone");
+          phone.href = "tel:" + saved.phone;
+          phone.textContent = saved.phone;
+          phone.hidden = false;
+        }
+      }
+    } catch {}
+  </script>
+</body>
+</html>

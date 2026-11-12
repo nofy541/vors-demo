@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[2063,[],""]
+3:"static/chunks/app/error-3dcc828352b48b81.js"
+4:I[7531,["39","$3"],"default"]
+5:I[5939,[],""]
+6:"static/chunks/582-a15fa390e476eb46.js"
+7:"static/chunks/app/privacy/page-95fc7cdee6945be0.js"
+8:I[8582,["582","$6","877","$7"],""]
+f:I[1920,["582","$6","877","$7"],"ThemeButton"]
+10:I[5664,["582","$6","877","$7"],"InstallSupport"]
+11:I[630,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[630,[],"$15"]
+17:"MetadataBoundary"
+18:I[630,[],"$17"]
+19:I[9539,[],"IconMark"]
+:HL["/vors-demo/_next/static/css/3be7ffae7e104037.css","style"]
+a:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"site","style":{"--brand-mark":"#52633f"},"children":[["$","a",null,{"className":"skip","href":"#main","children":"К содержимому"}],["$","header",null,{"className":"site-header privacy-header","children":[["$","$L8",null,{"href":"/","className":"wordmark","translate":"no","children":"Ворс"}],["$","$L8",null,{"className":"secondary privacy-back","href":"/#configurator","children":"К выбору мебели"}]]}],["$","main",null,{"id":"main","className":"site-main privacy-page","children":[["$","h1",null,{"children":"Данные вашей заявки"}],["$","p",null,{"children":"Эта версия показывает, как работает оформление. Тестовые данные и фото хранятся только в вашем браузере до завершения оформления или удаления черновика."}],["$","p",null,{"children":"Настройки оформления и черновик хранятся в браузере. Черновик хранится до отправки, очистки или истечения 24 часов. Данные браузера можно удалить в настройках сайта."}],["$","section",null,{"className":"panel stack privacy-demo","children":[["$","h2",null,{"children":"Демонстрационная версия"}],["$","p",null,{"children":"Для проверки используйте вымышленные имя, телефон, адрес и тестовые изображения. Перед работой с реальными клиентами владелец указывает свои реквизиты, порядок хранения и применимую политику обработки данных."}]]}],["$","$L8",null,{"className":"privacy-return","href":"/#configurator","children":"Вернуться к расчёту"}]]}],["$","footer",null,{"className":"site-footer privacy-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","$L8",null,{"className":"wordmark","href":"/","children":"Ворс"}],["$","span",null,{"children":"Санкт-Петербург"}],["$","$L8",null,{"className":"footer-contact","href":"/contacts","children":"Связаться"}]]}],["$","nav",null,{"className":"footer-links","aria-label":"Ссылки в подвале","children":[["$","$L8",null,{"href":"/services","children":"Услуги"}],["$","$L8",null,{"href":"/privacy","children":"Конфиденциальность"}]]}],["$","div",null,{"className":"footer-actions","children":[["$","$Lf",null,{"text":true}],["$","$L10",null,{"name":"Ворс","address":"Санкт-Петербург","phone":null}]]}]]}]]}],null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$a"}}]]
+b:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/vors-demo/_next/static/css/3be7ffae7e104037.css","precedence":"next"}]],["$","html",null,{"lang":"ru","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{const t=localStorage.getItem(\"vors-theme\");document.documentElement.dataset.theme=t===\"dark\"||(!t&&matchMedia(\"(prefers-color-scheme: dark)\").matches)?\"dark\":\"light\"}catch{}"}}]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":null,"template":["$","$L5",null,{}],"notFound":[["$","main",null,{"className":"site-main narrow stack","children":[["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"children":"Проверьте адрес. Если заявка была удалена компанией, её ссылка больше недоступна."}],["$","$L8",null,{"className":"primary","href":"/","children":"На главную"}]]}],[]]}]}]]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#eee6d7"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Политика конфиденциальности"}],["$","meta","1",{"name":"description","content":"Предварительный расчёт чистки мягкой мебели с выездом на дом."}],["$","link","2",{"rel":"manifest","href":"/vors-demo/manifest.webmanifest"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","5",{"rel":"icon","href":"/vors-demo/icons/icon-192.png"}],["$","link","6",{"rel":"apple-touch-icon","href":"/vors-demo/icons/icon-192.png"}],["$","$L19","7",{}]]}]}],null]}],null]}],"p":"$@1a","v":null,"s":"$a"}},"a":"$@1b","u":"$@1c","b":"ytbwAXeIh5UR0-5S5frc4"}
+13:null
+a:300
+1c:true
+a:C
+1b:0
+c:"$undefined"
+9:"$undefined"
+1a:"$undefined"
+14:"$undefined"
